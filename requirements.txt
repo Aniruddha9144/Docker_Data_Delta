@@ -1,0 +1,7 @@
+fastapi                 # Creates APIs (web framework)
+uvicorn                 # Runs the API server
+scikit-learn            # Builds Machine Learning models
+joblib                  # Saves and loads ML models
+pytest                  # Runs automated tests 
+httpx                   # Sends HTTP requests and supports API testing (client)
+
